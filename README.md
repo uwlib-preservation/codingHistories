@@ -1,1 +1,3 @@
-# codingHistories
+T=Nakamichi DR-1 SNA13753505; 1 7/8 IPS; Compact Cassette
+T=Otari MX-55; 3.75 IPS; 1/4" Open-reel audio
+T=Otari MX-55; 7.5 IPS; 1/4" Open-reel audio
